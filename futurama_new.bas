@@ -397,24 +397,6 @@ IF jn$ = "N" GOTO 102
 
 999
 CLS
-COLOR 10
-PRINT "           º "
-PRINT "ÍÍÍÍÍÍÍÍÍÍÍÎÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ"
-PRINT "           º"
-PRINT "           º                                                          "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-PRINT "           º                                                            "
-SLEEP 75
 GOTO 102
 
 2
